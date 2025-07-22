@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Sensors and Actuators
-author: Prof. Elvis C. S. Chen
+title: Computing Tricks and tips
+author: Elvis C. S. Chen
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
