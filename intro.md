@@ -1,6 +1,6 @@
 # Computing tricks and tips (for home lab)
 
-This GitHub repository contains personal notes on how to set up a home lab.
+This [GitHub repository](https://github.com/archetypebiomedical/Computing-tricks-and-tips.git) contains personal notes on how to set up a home lab.
 
 ## HomeLab setup
 
