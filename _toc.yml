@@ -4,4 +4,6 @@
 format: jb-book
 root: intro
 chapters:
+- file: docs/Proxmox/Proxmox.ipynb
+- file: docs/TrueNAS/TrueNAS.ipynb
 - file: docs/NextCloud/NextCloud.ipynb
